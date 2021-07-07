@@ -5,8 +5,7 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	text-rendering:optimizeSpeed;
 	width: 100%;
 }
-body { background-color: #48cddc;
-	opacity: .7;
+body { background-color: rgba(75, 205, 220, .7);
 }
 div.Basic-Graphics-Frame {
 	border-color:#000000;
