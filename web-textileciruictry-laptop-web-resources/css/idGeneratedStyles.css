@@ -3,6 +3,7 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	padding:0;
 	border-width:0;
 	text-rendering:optimizeSpeed;
+	background-color: 48cddc;
 }
 div.Basic-Graphics-Frame {
 	border-color:#000000;
