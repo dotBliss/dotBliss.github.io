@@ -7,6 +7,10 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 }
 body { background-color: rgba(75, 205, 220, .7);
 }
+
+.bodd{ align: center;
+}
+
 div.Basic-Graphics-Frame {
 	border-color:#000000;
 	border-width:1px;
